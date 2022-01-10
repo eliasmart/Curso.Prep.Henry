@@ -1,0 +1,36 @@
+
+.titulos {
+    color: #F3FF00;
+}
+
+.subtitulos {
+    color: #00ACAC;
+}
+
+.subtitulos2 {
+    color: #00ACff;
+}
+
+h1 {
+    color: #F3FF00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+p.one {
+    border-color: #F3FF00;
+    border-style: solid;
+}
+h2.one { 
+    border-color: #CBEF43;
+    border-style:skyblue;
+}
+.nota{
+    color: #F3FF00;
+    border-color: #F3FF00;
+    border-style: solid; 
+}
+h2.punto{
+    color: #F3FF00;
+    border-color: #F3FF00;
+    border-style: solid;
+}
